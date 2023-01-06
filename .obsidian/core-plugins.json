@@ -4,6 +4,7 @@
   "switcher",
   "graph",
   "backlink",
+  "canvas",
   "tag-pane",
   "page-preview",
   "daily-notes",
@@ -15,7 +16,6 @@
   "outline",
   "word-count",
   "slides",
-  "open-with-default-app",
   "workspaces",
   "file-recovery"
 ]

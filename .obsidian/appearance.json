@@ -1,8 +1,8 @@
 {
   "baseFontSize": 16,
   "translucency": false,
-  "theme": "moonstone",
-  "cssTheme": "Blue Topaz",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "S - Images Adjustments",
     "S - Admonitions",
@@ -16,5 +16,6 @@
     "【自定义】mytools 样式",
     "【图标】iconfont"
   ],
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "accentColor": ""
 }

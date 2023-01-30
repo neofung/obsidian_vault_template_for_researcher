@@ -17,6 +17,16 @@
       "RiCodeView",
       "RiToolsLine"
     ],
-    "recentlyUsedIconsSize": 5
+    "recentlyUsedIconsSize": 5,
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "emojiStyle": "none",
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
   }
 }
